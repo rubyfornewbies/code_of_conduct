@@ -14,7 +14,7 @@ This Code of Conduct presents a summary of the shared values in our community. T
 This Code of Conduct reflects the the standard that all community members agree to within the RubyNewbies community. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of, will exercise the right to suspend access to any person who aggressively or persistently breaks our shared Code of Conduct.
 
 ## Be respectful
-In order for the Steamrolers community to stay healthy, its members must feel comfortable and accepted. Treating one another with respect is absolutely necessary for this. In a disagreement, in the first instance assume that people mean well.
+In order for the RubyNewbies community to stay healthy, its members must feel comfortable and accepted. Treating one another with respect is absolutely necessary for this. In a disagreement, in the first instance assume that people mean well.
 
 We do not tolerate personal attacks, racism, sexism or any other form of discrimination. Disagreement is inevitable, from time to time, but respect for the views of others will go a long way to winning respect for your own view. Respecting other people, their work, their contributions and assuming well-meaning motivation will make community members feel comfortable and safe and will result in motivation and productivity.
 We expect members of our community to be respectful when dealing with other contributors and members. This is the most important aspect to this community. Members who break this rule will be banned from the community.
