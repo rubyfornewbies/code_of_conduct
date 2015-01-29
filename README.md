@@ -1,5 +1,5 @@
 # RubyNewbies Code of Conduct
-[back to RubyNewbies site](http://rubynewbies.org)
+[Back to RubyNewbies site](http://rubynewbies.org)
 
 All members of the RubyNewbies community are required to agree with the following code of conduct. Admins will enforce this code throughout organized discussions, and at all times throughout the community.
 In the RubyNewbies community, members from all over the world come together to discuss ruby. 
