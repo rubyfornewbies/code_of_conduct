@@ -1,9 +1,8 @@
-# Steamrolers Community Code of Conduct
-All members of the Steamrolers community are required to agree with the following code of conduct. Admins will enforce this code throughout the AMAs, organized discussions, and at all times throughout the community.
-In the Steamrolers community, members from all over the world come together to discuss the role of diversity in tech. 
+# RubyNewbies Code of Conduct
+All members of the RubyNewbies community are required to agree with the following code of conduct. Admins will enforce this code throughout organized discussions, and at all times throughout the community.
+In the RubyNewbies community, members from all over the world come together to discuss ruby. 
 
-This Code of Conduct document offers some guidance to ensure Steamrolers members can cooperate effectively in a positive and inspiring atmosphere, and to explain how together we can strengthen and support each other. Our goal is to encourage respectable and kind discussion. 
-This Code of Conduct is shared by all contributors and users who engage with the Steamrolers community.
+This Code of Conduct document offers some guidance to ensure Rubynewbies members can cooperate effectively in a positive and inspiring atmosphere, and to explain how together we can strengthen and support each other. Our goal is to encourage respectable and kind discussion. 
 
 ## Overview
 This Code of Conduct presents a summary of the shared values in our community. The basic concepts that will hold this community together in a positive manner are:
@@ -12,12 +11,9 @@ This Code of Conduct presents a summary of the shared values in our community. T
 1. [Be considerate](#be-considerate)
 1. [Support others in the community](# support-others-in-the-community)
 
-## Be respectful
-Be considerate
-Support others in the community
+This Code of Conduct reflects the the standard that all community members agree to within the RubyNewbies community. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of, will exercise the right to suspend access to any person who aggressively or persistently breaks our shared Code of Conduct.
 
-This Code of Conduct reflects the the standard that all community members agree to within the Steamrolers community. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of, will exercise the right to suspend access to any person who aggressively or persistently breaks our shared Code of Conduct.
-Be respectful
+## Be respectful
 In order for the Steamrolers community to stay healthy, its members must feel comfortable and accepted. Treating one another with respect is absolutely necessary for this. In a disagreement, in the first instance assume that people mean well.
 
 We do not tolerate personal attacks, racism, sexism or any other form of discrimination. Disagreement is inevitable, from time to time, but respect for the views of others will go a long way to winning respect for your own view. Respecting other people, their work, their contributions and assuming well-meaning motivation will make community members feel comfortable and safe and will result in motivation and productivity.
@@ -40,7 +36,6 @@ As a member, we expect you to take the time to consider the plethora of differen
 If you are frustrated your messages are more likely to be understood if you can give accurate and well-mannered information to all concerned.
 
 We are not here to argue. 
-
 
 ## Support others in the community  
 
