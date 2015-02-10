@@ -45,4 +45,12 @@ Your language use is the leading factor in the success of this community. Any me
 
 As a member, we expect you to take the time to consider the plethora of different ethnicities, sexes, religions, age categories, etc we we have in our community. So be careful with how you express yourself. This is not a private group where anything goes so please consider that. We're here to support each other's goals and initiatives. 
 
+## Reporting
+
+If you are being harassed by a member, notice that someone else is being harassed, or have any other concerns, please contact the administrators by typing /admin in Slack, or contact an admin directly via DM. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+
+In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
+
+We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of members or the general public. We will not name harassment victims without their affirmative consent.
+
 **[⬆ back to top](#overview)**
