@@ -11,7 +11,7 @@ This Code of Conduct presents a summary of the shared values in our community. T
 
 1. [Be respectful](#be-respectful)
 1. [Be considerate](#be-considerate)
-1. [Support others in the community](# support-others-in-the-community)
+1. [Support others in the community](#support-others-in-the-community)
 
 This Code of Conduct reflects the the standard that all community members agree to within the RubyNewbies community. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of, will exercise the right to suspend access to any person who aggressively or persistently breaks our shared Code of Conduct.
 
